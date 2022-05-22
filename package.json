@@ -1,0 +1,15 @@
+{
+    "name": "jperegrinos_sorteio",
+    "version": "1.0.0",
+    "description": "um app para sortear um número dentro de um intervalo",
+    "main": "main.js",
+    "scripts": {
+      "start": "electron ."
+    },
+    "author": "João Lucas M Ortiz",
+    "license": "ISC",
+    "devDependencies": {
+      "electron": "^18.2.4"
+    }
+  }
+  
